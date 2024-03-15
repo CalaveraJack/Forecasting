@@ -1,4 +1,4 @@
-# Forecasting
+# Forecasting with Fable and Prophet
 Multiple time series forecasting with fable and tidyverse in R
 
 It is my small work on the forecasting.
